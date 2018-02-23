@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#header{
+	width: 100vw;
+	height: 170px;
+	background-color: pink;
+}
+.urlHome{
+	width: 70vw;
+	height: 100px;
+	background-color: lightgrey;
+	margin-left: 15vw;
+	background-image: url(../img/urlHome.jpg);
+	border: 2px solid lightsalmon;
+}
+
+.urlHome:hover{
+	background-image: url(../img/urlHomeM.jpg);
+	border: 2px solid white;
+	
+}
